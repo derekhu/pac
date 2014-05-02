@@ -1,3 +1,7 @@
+/*
+ * Proxy Autodiscovery Protocol
+ *    http://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol
+ */
 function FindProxyForURL(url, host)
 {
     // our local URLs from the domains below need a proxy:
