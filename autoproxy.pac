@@ -3,7 +3,7 @@ function FindProxyForURL(url, host)
     //var resolved_ip = dnsResolve(host);
 
     // our local URLs from the domains below example.com don't need a proxy:
-    if (shExpMatch(url,"*.youtube.com")){
+    if (shExpMatch(host, "*.youtube.com")){
         return "PROXY 192.168.10.100:8580; DIRECT";
     }
       
