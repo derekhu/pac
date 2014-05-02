@@ -1,4 +1,5 @@
-/*
+;
+/**
  * Proxy Autodiscovery Protocol
  *    http://en.wikipedia.org/wiki/Web_Proxy_Autodiscovery_Protocol
  */
