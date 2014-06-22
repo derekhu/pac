@@ -11,7 +11,7 @@ function FindProxyForURL(url, host)
         "*.youtube.com",
         "*.googlevideo.com",
         "*.googleusercontent.com",
-        "plus.google.com"，
+        "plus.google.com",
         
         // For all~~ ++
         "*.google.com"
